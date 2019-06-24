@@ -72,4 +72,4 @@ end
 #Bootstrap JavaScript depends on jQuery. If you're using Rails 5.1+
 gem 'jquery-rails'
 
-
+gem 'simple_form'
